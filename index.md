@@ -187,8 +187,8 @@ and our administrator may contact you if we need any extra information.</h4>
 
 
 <p>
-  <a href="https://www.fu-berlin.de/">
-    <img src="https://upload.wikimedia.org/wikipedia/de/thumb/7/71/Fub-logo.svg/2000px-Fub-logo.svg.png" alt="FU"
+  <a href="https://www.tuwien.at/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/TU_Wien-Logo.svg" alt="TU Wien"
 	  height="100"/>
   </a>
 </p>
