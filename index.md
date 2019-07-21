@@ -137,6 +137,7 @@ and our administrator may contact you if we need any extra information.</h4>
 
 {% comment %}
   ACCESSIBILITY
+{% endcomment %}
 
 {% comment %}
   CONTACT EMAIL ADDRESS
