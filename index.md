@@ -195,7 +195,8 @@ and our administrator may contact you if we need any extra information.</h4>
 
 <a href="https://www.th-koeln.de">
  <img src="https://www.th-koeln.de/img/logo.svg" alt="TH-Köln" 
-      	  height="100"/>
+      	  height="90"/>
+</a>		  
 </p>
 
 <hr/>
