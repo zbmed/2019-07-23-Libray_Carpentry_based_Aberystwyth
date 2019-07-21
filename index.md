@@ -17,7 +17,6 @@ collaborative_notes: https://pad.gwdg.de/oFot4sv6QtaKQPkzEf5G7w  # optional: URL
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
-
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
 {% comment %}
@@ -268,8 +267,7 @@ and our administrator may contact you if we need any extra information.</h4>
   {% elsif page.carpentry == "lc" %}
   Library Carpentry
   {% endif %} 
-  based 
-  workshop,
+  based workshop,
   you will need access to the software described below.
   In addition, you will need an up-to-date web browser.
 </p>
