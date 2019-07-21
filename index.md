@@ -5,7 +5,7 @@ venue: "LibPMC (Aberystwyth)"        # brief name of host site without address (
 address: ""      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "gb"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "48.199180, 16.368030"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "52.4180486,-4.064647"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "July 23 + July 24, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "4:00 pm - 7:00 pm / 1:30 pm - 3:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-07-23      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
