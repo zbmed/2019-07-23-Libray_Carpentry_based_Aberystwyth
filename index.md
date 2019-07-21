@@ -201,16 +201,6 @@ and our administrator may contact you if we need any extra information.</h4>
 
 <hr/>
 
-{% comment %} 
- SURVEYS - DO NOT EDIT SURVEY LINKS 
-{% endcomment %}
-<h2 id="surveys">Surveys</h2>
-
-<p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="https://www.surveymonkey.com/r/lcpreworkshopsurvey?workshop_id=2018-08-22-Library_Carpentry_Cologne">Pre-workshop Survey</a></p>
-<p><a href="https://www.surveymonkey.com/r/lcpostworkshopsurvey?workshop_id=2018-08-22-Library_Carpentry_Cologne">Post-workshop Survey</a></p>
-<hr/>
-
 
 {% comment %}
   SCHEDULE
