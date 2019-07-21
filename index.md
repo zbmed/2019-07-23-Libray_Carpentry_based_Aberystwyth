@@ -281,14 +281,15 @@ and our administrator may contact you if we need any extra information.</h4>
 <h2 id="setup">Setup</h2>
 
 <p>
-  To participate in a
+  To participate in the 
   {% if page.carpentry == "swc" %}
   Software Carpentry
   {% elsif page.carpentry == "dc" %}
   Data Carpentry
   {% elsif page.carpentry == "lc" %}
   Library Carpentry
-  {% endif %}
+  {% endif %} 
+  based 
   workshop,
   you will need access to the software described below.
   In addition, you will need an up-to-date web browser.
